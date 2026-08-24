@@ -1,0 +1,12 @@
+FICHA DE VIDEOJUEGO
+===================
+
+Estudiante: Estudiante
+Node.js: v24.19.0
+Plataforma del sistema: win32
+
+Título: Kenshi
+Estudio: Lo-Fi Games
+Año: 2018
+Plataformas: PC, Xbox One
+¿Es multijugador?: Un jugador
